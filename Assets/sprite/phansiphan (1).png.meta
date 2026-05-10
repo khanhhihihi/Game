@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 5a28266123990dd4b9f06aedfc826088
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 662727352242189814
+    second: phansiphan (1)_0
+  - first:
+      213: 5094657549045840240
+    second: phansiphan (1)_1
+  - first:
+      213: 4048089773569043570
+    second: phansiphan (1)_2
+  - first:
+      213: 1426709866112809802
+    second: phansiphan (1)_3
+  - first:
+      213: -6057847180815731555
+    second: phansiphan (1)_4
+  - first:
+      213: -6914496714375687267
+    second: phansiphan (1)_5
+  - first:
+      213: -1727096132377474660
+    second: phansiphan (1)_6
+  - first:
+      213: -4820045523495922792
+    second: phansiphan (1)_7
+  - first:
+      213: 7054402419564621729
+    second: phansiphan (1)_8
+  - first:
+      213: 4175310260188586642
+    second: phansiphan (1)_9
+  - first:
+      213: -2552132112792532989
+    second: phansiphan (1)_10
+  - first:
+      213: -5206208114879593924
+    second: phansiphan (1)_11
+  - first:
+      213: 1926010259902694053
+    second: phansiphan (1)_12
+  - first:
+      213: 5384953631379663377
+    second: phansiphan (1)_13
+  - first:
+      213: -4217572139892734454
+    second: phansiphan (1)_14
+  - first:
+      213: 1760043751409537013
+    second: phansiphan (1)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phansiphan (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5486
+        width: 1601
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5b45df30b723900800000000000000
+      internalID: 662727352242189814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 5486
+        width: 1602
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079b3275c0cd3b640800000000000000
+      internalID: 5094657549045840240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_2
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 5492
+        width: 1601
+        height: 880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c697c8334bd2830800000000000000
+      internalID: 4048089773569043570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4423
+        width: 1601
+        height: 893
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bf23f6011bcc310800000000000000
+      internalID: 1426709866112809802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4423
+        width: 1602
+        height: 891
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9470ebb5143eeba0800000000000000
+      internalID: -6057847180815731555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 4423
+        width: 1601
+        height: 893
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9318037fd5ca00a0800000000000000
+      internalID: -6914496714375687267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3355
+        width: 1601
+        height: 894
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9980b8d73f1808e0800000000000000
+      internalID: -1727096132377474660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3358
+        width: 1602
+        height: 891
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89350d25222cb1db0800000000000000
+      internalID: -4820045523495922792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 3355
+        width: 1596
+        height: 894
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2ec0ff9546e160800000000000000
+      internalID: 7054402419564621729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2288
+        width: 1601
+        height: 899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a5955f8ea1f930800000000000000
+      internalID: 4175310260188586642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2288
+        width: 1602
+        height: 899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308422d7d51059cd0800000000000000
+      internalID: -2552132112792532989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2289
+        width: 1601
+        height: 898
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3288dd9d45dfb7b0800000000000000
+      internalID: -5206208114879593924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 1601
+        height: 899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2024f70209aba10800000000000000
+      internalID: 1926010259902694053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1225
+        width: 1602
+        height: 897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa55a0cc23bba40800000000000000
+      internalID: 5384953631379663377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1225
+        width: 1600
+        height: 897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a060c130c7c2875c0800000000000000
+      internalID: -4217572139892734454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 1601
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff49ef777eec6810800000000000000
+      internalID: 1760043751409537013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phansiphan (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 2289
+        width: 1595
+        height: 902
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c24d1849efcc7c418d7719d8f3aed16
+      internalID: 524974385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad26bc40b180046448628bc8bc2661c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      phansiphan (1)_0: 662727352242189814
+      phansiphan (1)_1: 5094657549045840240
+      phansiphan (1)_10: -2552132112792532989
+      phansiphan (1)_11: -5206208114879593924
+      phansiphan (1)_12: 1926010259902694053
+      phansiphan (1)_13: 5384953631379663377
+      phansiphan (1)_14: -4217572139892734454
+      phansiphan (1)_15: 1760043751409537013
+      phansiphan (1)_16: 524974385
+      phansiphan (1)_2: 4048089773569043570
+      phansiphan (1)_3: 1426709866112809802
+      phansiphan (1)_4: -6057847180815731555
+      phansiphan (1)_5: -6914496714375687267
+      phansiphan (1)_6: -1727096132377474660
+      phansiphan (1)_7: -4820045523495922792
+      phansiphan (1)_8: 7054402419564621729
+      phansiphan (1)_9: 4175310260188586642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

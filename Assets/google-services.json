@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210614946365",
+    "firebase_url": "https://vietskyrush-2d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vietskyrush-2d",
+    "storage_bucket": "vietskyrush-2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210614946365:android:f8c31e31c228d056b93854",
+        "android_client_info": {
+          "package_name": "com.khanhnguyen.game2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210614946365-r10ift49sa3inb6flvutmgh0ageg03hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMDRKudPp-Jk9heLNT3sFn3zzyNFGHZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210614946365-r10ift49sa3inb6flvutmgh0ageg03hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
